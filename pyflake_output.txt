@@ -1,0 +1,8 @@
+(venv) C:\Users\hp\Desktop>pyflakes Assignment
+
+(venv) C:\Users\hp\Desktop>cd Assignment
+
+(venv) C:\Users\hp\Desktop\Assignment>pyflakes sort.py
+
+(venv) C:\Users\hp\Desktop\Assignment>
+

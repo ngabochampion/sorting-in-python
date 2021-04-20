@@ -1,0 +1,9 @@
+
+(venv) C:\Users\hp\Desktop>pylint Assignment
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+
+(venv) C:\Users\hp\Desktop>
+
